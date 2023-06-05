@@ -2,7 +2,7 @@
 
 Here you'll find an easy-to-use calculator that is designed to make experimenting with different teams easy and accessible.
 
-<!-- TODO: fill out stuff below -->
+TODO: fill out stuff below
 
 Project Title: Give your project a clear and concise title that describes its purpose, such as "Game Calculator for [Game Name]."
 
@@ -11,6 +11,10 @@ Project Description: Provide a brief overview of your application, explaining it
 Project Features: List the key features and functionalities of your calculator, such as calculating in-game currency conversions, item stats, or character builds.
 
 Installation: Include step-by-step instructions on how to install and run the application locally. This should cover any prerequisites, dependencies, and commands needed to set up the project.
+
+Run the following commands:
+`npm install` to install all prerequisites and
+`npm start` to start the application.
 
 Usage: Provide instructions on how to use the calculator. Explain how users can input data, select options, and interpret the results.
 
